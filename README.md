@@ -1,8 +1,6 @@
-### Hola 👋 I'm Sarah!
-
 
 <p align=”center”>
-<img src="https://user-images.githubusercontent.com/116047642/228126563-a84867ba-f07b-47ee-a284-4b0432353ef9.png" alt="my banner">
+<img src="https://user-images.githubusercontent.com/116047642/228127849-c5b41f73-9680-43b3-9526-403df8e0ccbd.png" alt="my banner">
 </p>
 
 <br>
