@@ -27,16 +27,5 @@
 * JavaScript MERN
 * Java Deployment on AWS
 
-## 🤝 Connect with me:
-[![linkedin](https://user-images.githubusercontent.com/116047642/228126788-98990706-7b0f-4e2b-80de-f573e8544314.png)][1]
-
-[1]: https://www.linkedin.com/in/sarahstmyr/
-
-
-💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
-
-## Technologies Used:
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahsotomayor&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/sarahsotomayor)
