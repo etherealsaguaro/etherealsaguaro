@@ -1,7 +1,8 @@
-### Hola 👋 I'm Sarah
+### Hola 👋 I'm Sarah!
+
 
 <p align=”center”>
-<img src="https://user-images.githubusercontent.com/116047642/228107661-a8a5ac02-04fb-4557-948f-9df8c089761e.png" alt="my banner">
+<img src="https://user-images.githubusercontent.com/116047642/228126563-a84867ba-f07b-47ee-a284-4b0432353ef9.png" alt="my banner">
 </p>
 
 <br>
@@ -29,12 +30,13 @@
 * Java Deployment on AWS
 
 ## 🤝 Connect with me:
+[![linkedin](https://user-images.githubusercontent.com/116047642/228126788-98990706-7b0f-4e2b-80de-f573e8544314.png)][1]
+
+[1]: https://www.linkedin.com/in/sarahstmyr/
+
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-
-
-<br>
 
 ## Technologies Used:
 
