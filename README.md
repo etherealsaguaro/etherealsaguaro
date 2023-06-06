@@ -21,11 +21,13 @@
 
 * UI projects with Bootstrap Sass
 * Python projects
+* Java full stack project involving a video game API
 
 ## 🌱 I’m currently learning: 
 
-* JavaScript MERN
-* Java Deployment on AWS
+* APIs in Java project
+* Java Security
+* Java Deployment on AWS and other deployment platforms
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahsotomayor&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/sarahsotomayor)
