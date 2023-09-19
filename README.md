@@ -8,27 +8,18 @@
 
 ## 👩🏻‍💻 About Me:
 
-* I'm a Full-Stack Developer using Python & Java
-* Background in healthcare administration / business operations
-
-## ⚡ You can find me:
-
-* 🎮 Gaming
-* 📺 Watching action, drama, romance, and anime
-* 🎨 Painting, coloring, or drawing
-* 📚 Reading a good book
+* I'm a Full-Stack Developer using mainly Java but skilled in C#, Python, and JavaScript as well.
 
 ## 🔭 I’m currently working on: 
 
-* UI projects with Bootstrap Sass
-* Python projects
-* Java full stack project involving a video game API
+* Adding features to a Java video game marketplace project
+* Creating video games on Unity with C#
 
 ## 🌱 I’m currently learning: 
 
-* APIs in Java project
-* Java Security
-* Java Deployment on AWS and other deployment platforms
+* Java Spring Security
+* Java API integration
+* Java deployments on AWS and Azure
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahsotomayor&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/sarahsotomayor)
