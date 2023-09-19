@@ -1,6 +1,6 @@
 
 <p align=”center”>
-![Sarah Sotomayor](https://github.com/sarahsotomayor/sarahsotomayor/assets/116047642/ec66ab4a-26d3-408a-815e-64ff284fcbe5)
+<img src=https://github.com/sarahsotomayor/sarahsotomayor/assets/116047642/ec66ab4a-26d3-408a-815e-64ff284fcbe5>
 
 </p>
 
