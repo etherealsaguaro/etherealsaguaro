@@ -8,18 +8,27 @@
 
 ## 👩🏻‍💻 About Me:
 
-* I'm a Full-Stack Developer using mainly Java but skilled in C#, Python, and JavaScript as well.
+* I'm a Full-Stack Developer Skilled in C#, Java, Python, and JavaScript as well.
+* Favorite programming languages: Python & Java (soon to become C# instead of Java LOL, sorry not sorry Java)
 
 ## 🔭 I’m currently working on: 
 
-* Adding features to a Java video game marketplace project
+* A fitness application using MERN (Group Project)
+* Adding features to a Java video game marketplace (Version 2)
 * Creating video games on Unity with C#
+
+## 🎉 What I have worked on in the past:
+* An event registration application built in Python (Group Project)
+* A video game review application built with Java (Version 1)
+* Frontend website templates for brick & mortar businesses as well as e-commerce. 
 
 ## 🌱 I’m currently learning: 
 
+* "algorithms, and algorithms, and algorithms, OH MY!"
+* Game development with C#
+* Unity Engine
 * Java Spring Security
 * Java API integration
-* Java deployments on AWS and Azure
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahsotomayor&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/sarahsotomayor)
