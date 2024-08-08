@@ -13,7 +13,6 @@
 
 ## 🔭 I’m currently working on: 
 
-* A fitness application using MERN (Group Project)
 * Adding features to a Java video game marketplace (Version 2)
 * Creating video games on Unity with C#
 
@@ -24,11 +23,8 @@
 
 ## 🌱 I’m currently learning: 
 
-* "algorithms, and algorithms, and algorithms, OH MY!"
-* Game development with C#
-* Unity Engine
-* Java Spring Security
-* Java API integration
+* Game development with C# / Unity
+* Flutter
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahsotomayor&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/sarahsotomayor)
