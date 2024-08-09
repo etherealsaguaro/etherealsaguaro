@@ -8,13 +8,13 @@
 
 ## 👩🏻‍💻 About Me:
 
-* I'm a Full-Stack Developer Skilled in C#, Java, Python, and JavaScript as well.
-* Favorite programming languages: Python & Java (soon to become C# instead of Java LOL, sorry not sorry Java)
+* I'm a game developer mainly creating games in C# using Unity.
+* Favorite programming languages: Python
 
 ## 🔭 I’m currently working on: 
 
-* Adding features to a Java video game marketplace (Version 2)
-* Creating video games on Unity with C#
+* Adding features to a video game marketplace (Version 2)
+* Creating various video games in Unity
 
 ## 🎉 What I have worked on in the past:
 * An event registration application built in Python (Group Project)
@@ -24,7 +24,7 @@
 ## 🌱 I’m currently learning: 
 
 * Game development with C# / Unity
-* Flutter
+* Flutter & Dart
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahsotomayor&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/sarahsotomayor)
