@@ -9,12 +9,12 @@
 ## 👩🏻‍💻 About Me:
 
 * I'm a game developer mainly creating games in C# using Unity.
-* Favorite programming languages: Python
+* Through my initial full stack studies, I learned Java and Python. 
 
 ## 🔭 I’m currently working on: 
 
 * Adding features to a video game marketplace (Version 2)
-* Creating various video games in Unity
+* Creating 2D and 3D video games in Unity
 
 ## 🎉 What I have worked on in the past:
 * An event registration application built in Python (Group Project)
