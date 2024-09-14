@@ -9,17 +9,17 @@
 ## 👩🏻‍💻 About Me:
 
 * I'm a game developer mainly creating games in C# using Unity.
-* Through my initial full stack studies, I learned Java and Python. 
+* Through my initial full stack studies, I learned Java, Python, and JavaScript. 
 
 ## 🔭 I’m currently working on: 
 
-* Adding features to a video game marketplace (Version 2)
 * Creating 2D and 3D video games in Unity
+* Adding features to a video game marketplace (Version 2)
 
 ## 🎉 What I have worked on in the past:
 * An event registration application built in Python (Group Project)
 * A video game review application built with Java (Version 1)
-* Frontend website templates for brick & mortar businesses as well as e-commerce. 
+* Frontend HTML & Bootstrap websites for brick & mortar businesses as well as e-commerce. 
 
 ## 🌱 I’m currently learning: 
 
