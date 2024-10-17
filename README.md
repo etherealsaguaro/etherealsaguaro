@@ -24,7 +24,7 @@
 ## 🌱 I’m currently learning: 
 
 * Game development with C# / Unity
-* Flutter & Dart
+* Flutter & Dart (for my current employer)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahsotomayor&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/sarahsotomayor)
