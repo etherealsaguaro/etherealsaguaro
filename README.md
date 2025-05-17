@@ -16,7 +16,7 @@
 
 * Creating 2D and 3D video games in Unity
 * A video game tracker for game developers (Version 1)
-* Redeveloping and features to a video game marketplace (Version 2)
+* Redeveloping and adding features to a video game marketplace (Version 2)
 
 ## 🎉 What I have worked on in the past:
 * An event registration application built in Python (School Group Project) & some team hackathon projects
