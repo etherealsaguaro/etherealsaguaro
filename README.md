@@ -21,12 +21,25 @@
 ## 🎉 What I have worked on in the past:
 * An event registration application built in Python (School Group Project) & some team hackathon projects
 * A video game review application built with Java (Version 1)
-* Frontend HTML & Bootstrap websites for brick & mortar businesses as well as e-commerce. 
+* Frontend HTML & Bootstrap websites for brick & mortar businesses as well as e-commerce.
+
+## 🔐 Private Organization Contributions:
+
+During my time at Nymbl Science, I contributed to the company's website within the organization GitHub. These included:
+
+* Integrated a live chat widget to enable real-time communication between site visitors and customer support.
+* Updated and edited content in the program information pages.
+* Added buttons and links to guide users toward the Support FAQ site, improving overall navigation and user support access.
+* Maintained and updated the Contact Us page with new contact methods.
+
+Note: Repositories are private under the organization's GitHub, and contributions do not appear in my public contribution graph.
+[Nymbl Science Organization](https://github.com/NymblScience)
 
 ## 🌱 I’m currently learning: 
 
 * Courses for my B.S. in Software Engineering
 * Game development with C# / Unity
+* Environment Design in Blender
 * Data Science with Python (NumPy, Pandas, Matplotlib, Plotly)
 
 
