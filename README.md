@@ -42,9 +42,10 @@ Note: Repositories are private under the organization's GitHub, and contribution
 
 ## 🧰 Tech Stack
 
+<div align="center">
 <table>
   <tr>
-    <td valign="top" width="80%">
+    <td>
       ### 💻 Languages
       <p align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40"/>
@@ -85,3 +86,4 @@ Note: Repositories are private under the organization's GitHub, and contribution
     </td>
   </tr>
 </table>
+</div>
