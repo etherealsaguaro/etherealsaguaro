@@ -44,7 +44,7 @@ Note: Repositories are private under the organization's GitHub, and contribution
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top">
       ### 💻 Languages
       <p align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40"/>
@@ -78,12 +78,10 @@ Note: Repositories are private under the organization's GitHub, and contribution
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/>
       </p>
     </td>
-    <td valign="top" width="40%">
-      <div align="right">
-        <a href="https://github.com/sarahsotomayor">
+    <td valign="top" width="300">
+      <a href="https://github.com/sarahsotomayor">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahsotomayor&layout=compact&theme=dark#gh-dark-mode-only" />
-        </a>
-      </div>
+      </a>
     </td>
   </tr>
 </table>
