@@ -8,12 +8,12 @@
 
 ## 👩🏻‍💻 About Me:
 
-I'm an indie game developer primarily creating games in C# using Unity. I'm currently pursuing a Bachelor of Science in Software Engineering. Through my initial full stack studies from a bootcamp, I gained experience with Java, Python, and JavaScript.
+I'm an indie game developer primarily creating games in C# using Unity. Through my initial full stack studies from a bootcamp, I gained experience with Java, Python, and JavaScript. That led me to my current role as a Support Engineer for a global retail-tech company. During my spare time, I'm currently pursuing a Bachelor of Science in Cybersecurity. 
 
 ## 🔭 Current Projects: 
 
 * Creating 2D and 3D video games in Unity
-* A video game tracker for game developers (Version 1)
+* A video game research tool for game developers (Version 1)
 * Redeveloping and adding features to a video game marketplace (Version 2)
 
 ## 🎉 Past Projects:
@@ -23,7 +23,7 @@ I'm an indie game developer primarily creating games in C# using Unity. I'm curr
 
 ## 🔐 Private Organization Contributions:
 
-During my time at Nymbl Science, I contributed to the company's website within the organization GitHub. These included:
+During my time at Nymbl Science, a health-tech company, I contributed to the company's website within the organization GitHub. These included:
 
 * Integrated a live chat widget to enable real-time communication between site visitors and customer support.
 * Updated and edited content in the program information pages.
@@ -35,10 +35,9 @@ Note: Repositories are private under the organization's GitHub, and contribution
 
 ## 🌱 Currently Learning: 
 
-* Courses for my B.S. in Software Engineering
+* Courses for my B.S. in Cybersecurity
 * Game development with C# / Unity
-* Environment Design in Blender
-* Data Science with Python (NumPy, Pandas, Matplotlib, Plotly)
+* Tinkering with: Environment Design in Blender & Data Science with Python (NumPy, Pandas, Matplotlib, Plotly)
 
 ## 🧰 Tech Stack
 
