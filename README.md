@@ -80,8 +80,8 @@ Note: Repositories are private under the organization's GitHub, and contribution
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=etherealsaguaro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-        ![etherealsaguaro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=etherealsaguaro&theme=vue-dark&hide_border=true)
-        ![etherealsaguaro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etherealsaguaro&theme=vue-  dark&show_icons=true&hide_border=true&layout=compact)
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=etherealsaguaro&theme=vue-dark&hide_border=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etherealsaguaro&theme=vue-  dark&show_icons=true&hide_border=true&layout=compact"/>
       </td>
     </tr>
   </table>
