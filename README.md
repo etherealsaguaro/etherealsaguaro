@@ -42,10 +42,7 @@ Note: Repositories are private under the organization's GitHub, and contribution
 ## 🧰 Tech Stack
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        Languages
+  <p>Languages</p>
         <p>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
@@ -54,7 +51,7 @@ Note: Repositories are private under the organization's GitHub, and contribution
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40"/>
         </p>
-        Frameworks & Libraries
+  <p>Frameworks & Libraries</p>
         <p>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="40"/>
@@ -63,13 +60,13 @@ Note: Repositories are private under the organization's GitHub, and contribution
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40"/>
         </p>
-        Databases
+  <p>Databases</p>
         <p>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
         </p>
-        Tools & Platforms
+  <p>Tools & Platforms</p>
         <p>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
@@ -77,12 +74,8 @@ Note: Repositories are private under the organization's GitHub, and contribution
           <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/>
         </p>
-      </td>
-      <td>
+  <p>Git Stats</p>
         <img src="https://github-readme-stats.vercel.app/api?username=etherealsaguaro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=etherealsaguaro&theme=vue-dark&hide_border=true"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etherealsaguaro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
-      </td>
-    </tr>
-  </table>
 </div>
